@@ -1,8 +1,12 @@
+<<<<<<< HEAD
 Person 2: Challenge 2. Changing the first line.
 ########
 
 
 # Git_Exam_539
+=======
+# Git_Exam_539 # I am making tis change for the challenge 2
+>>>>>>> 75f1405f4f9670c55c5966333d459400c6083ac4
 
 #BIO539
 
